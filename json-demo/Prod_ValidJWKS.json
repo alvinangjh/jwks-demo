@@ -3,17 +3,16 @@
     {
       "kty": "EC",
       "crv": "P-256",
-      "x": "TulXF5pPRo7iZyrhq1VaPnW6KATlTwD6kXUowo_YcPE",
-      "y": "uf8QnfMosYFhJgektvlUpehZKHgeqzwAJsk2O9l0lHw",
+      "x": "QAc6aCalmEyBNZwOCXymGKuM0ejRdBagcTgjw_qT2JQ",
+      "y": "4c-uJzZyBt79QBy7KNGa4Ur3W6IvtXu0Ynf3MYCEsfw",
       "kid": "acme_verification_key",
-      "use": "sig",
-      "alg": "ES256"
+      "use": "sig"
     },
     {
       "kty": "EC",
       "crv": "P-256",
-      "x": "qVm4yUUhjfBCKtuTvO9OLrcfNpr3lRw4OUvxR0pmHX0",
-      "y": "bjiSzkYSZ9XcXGqXIyciDmSJF67eysZwtvhMz2Jy1ag",
+      "x": "WZOsZh2nud5aWSg3UeHcJiJGQhHDOoXD4RDQNdFaCy8",
+      "y": "xp7hh5Wn-M3RzrJGJxYvZIbT2jWr_W7cOzBWaAgUFwc",
       "kid": "acme_enc_key",
       "use": "enc",
       "alg": "ECDH-ES+A256KW"
