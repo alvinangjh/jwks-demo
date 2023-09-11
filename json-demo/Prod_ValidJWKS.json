@@ -1,21 +1,21 @@
 {
   "keys": [
     {
-      "use": "sig",
       "kty": "EC",
-      "kid": "vPT7o62ke_t4dTUQQwDhcFw_hX_FbiwFS3eCvYC2yz8",
       "crv": "P-256",
-      "x": "jbqsZUCAf_Sj1oq6jR0ErpzIGbiAJ_GgHkZ18YeOgGE",
-      "y": "xB2rsB3a8xug6eiacWrxoTNJi92hyO1eNccpKBGjqdo"
+      "x": "QAc6aCalmEyBNZwOCXymGKuM0ejRdBagcTgjw_qT2JQ",
+      "y": "4c-uJzZyBt79QBy7KNGa4Ur3W6IvtXu0Ynf3MYCEsfw",
+      "kid": "acme_verification_key",
+      "use": "sig"
     },
     {
-      "use": "enc",
-      "alg": "ECDH-ES+A256KW",
       "kty": "EC",
-      "kid": "iop1ls7rt-Y1jmFXTWsxxb3TKKgxwB566V2pUVJdjVY",
       "crv": "P-256",
-      "x": "bqYdlztg_OhQt2a-ocr05Feu6nHXFVZ2oy7R750t3TA",
-      "y": "Suu4cYvK0rH6njN_1Q2utIYrEffDYCtzFyxdcI2nrfM"
+      "x": "WZOsZh2nud5aWSg3UeHcJiJGQhHDOoXD4RDQNdFaCy8",
+      "y": "xp7hh5Wn-M3RzrJGJxYvZIbT2jWr_W7cOzBWaAgUFwc",
+      "kid": "acme_enc_key",
+      "use": "enc",
+      "alg": "ECDH-ES+A256KW"
     }
   ]
 }
