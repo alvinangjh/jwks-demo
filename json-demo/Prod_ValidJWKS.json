@@ -11,7 +11,6 @@
     },
     {
       "use": "sig",
-      "alg": "ES256",
       "kty": "EC",
       "kid": "vPT7o62ke_t4dTUQQwDhcFw_hX_FbiwFS3eCvYC2yz8",
       "crv": "P-256",
