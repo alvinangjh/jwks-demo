@@ -6,7 +6,6 @@
       "x": "TulXF5pPRo7iZyrhq1VaPnW6KATlTwD6kXUowo_YcPE",
       "y": "uf8QnfMosYFhJgektvlUpehZKHgeqzwAJsk2O9l0lHw",
       "kid": "acme_verification_key",
-      "alg": "ES256",
       "use": "sig"
     },
     {
