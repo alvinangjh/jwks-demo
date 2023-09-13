@@ -6,6 +6,7 @@
       "x": "TulXF5pPRo7iZyrhq1VaPnW6KATlTwD6kXUowo_YcPE",
       "y": "uf8QnfMosYFhJgektvlUpehZKHgeqzwAJsk2O9l0lHw",
       "kid": "acme_verification_key",
+      "alg": "ES256",
       "use": "sig"
     },
     {
@@ -14,8 +15,7 @@
       "x": "qVm4yUUhjfBCKtuTvO9OLrcfNpr3lRw4OUvxR0pmHX0",
       "y": "bjiSzkYSZ9XcXGqXIyciDmSJF67eysZwtvhMz2Jy1ag",
       "kid": "acme_enc_key",
-      "use": "enc",
-      "alg": "ECDH-ES+A256KW"
+      "use": "enc"
     }
   ]
 }
