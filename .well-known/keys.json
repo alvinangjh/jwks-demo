@@ -1,0 +1,21 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "rjtZVj2IESEnRVNJmErY6YejUivw-aw6-DRu0SWo2ovJx5EdWtfMGrYKwRPRXfJFPfiS9beyv4LnZ9m6DG9pi_uwuPe5ZrRo2HRo5Wxf-LGNIP0UYAARBRjSEfLAljxqJ2NrRqyYrGkdDLrakl2THfXYY5hKAsZTWUxSJa2D2ZIjtWKy2tLXNZbPrzQuLuutlxOqeCDKv-iD4pBIybyEtF1agtAf7ev5Q5m1SOiQsivsqAV4Wr6Lz3o2UsZkk-aa4UuR2tKdA01OPWH31wYtCjdvuh10_KhHt1kV7dcSL9pJA6USx9ipkTgGV7rktXiPN9lunoQAQ2Y5J1__CVJVmQ",
+      "e": "AQAB",
+      "kid": "alias/singpass-auth-signing-key",
+      "use": "sig",
+      "alg": "RS256"
+    },
+    {
+      "kty": "EC",
+      "x": "L-sQv8_jfowtEdMoIOaZhbqmTFGa3JQV8DPqDj_N7o0",
+      "y": "wzu6qi0domNxJAAwmDzbC64RWDQUPnH3p1Vmu16VmYM",
+      "crv": "P-256",
+      "use": "enc",
+      "kid": "enc-ECC0LBjXEoQoLNXrLppvX",
+      "alg": "ECDH-ES+A256KW"
+    }
+  ]
+}
