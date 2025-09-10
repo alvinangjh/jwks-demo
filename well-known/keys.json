@@ -13,7 +13,7 @@
       "kty": "EC",
       "use": "sig",
       "crv": "P-256",
-      "kid": "alias/singpass-auth-signing-key",
+      "kid": "test-rp-key-02",
       "x": "ZyAP_T3GS6tzdEfIKgj7Z_TkKWQ9AQAU7LNTSV_JICQ",
       "y": "gxQgPvGD8ASZT7DT41pgWP4ZHiZ_7HGcMoDM0NEOfO8",
       "alg": "ES256"
@@ -22,7 +22,7 @@
       "kty": "EC",
       "use": "sig",
       "crv": "P-256",
-      "kid": "alias/singpass-auth-signing-key",
+      "kid": "test-rp-key-02",
       "x": "ZyAP_T3GS6tzdEfIKgj7Z_TkKWQ9AQAU7LNTSV_JICQ",
       "y": "gxQgPvGD8ASZT7DT41pgWP4ZHiZ_7HGcMoDM0NEOfO8",
       "alg": "ES256K"
