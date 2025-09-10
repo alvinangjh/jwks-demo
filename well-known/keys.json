@@ -10,12 +10,13 @@
       "alg": "ECDH-ES+A256KW"
     },
     {
-      "kty": "RSA",
-      "n": "rjtZVj2IESEnRVNJmErY6YejUivw-aw6-DRu0SWo2ovJx5EdWtfMGrYKwRPRXfJFPfiS9beyv4LnZ9m6DG9pi_uwuPe5ZrRo2HRo5Wxf-LGNIP0UYAARBRjSEfLAljxqJ2NrRqyYrGkdDLrakl2THfXYY5hKAsZTWUxSJa2D2ZIjtWKy2tLXNZbPrzQuLuutlxOqeCDKv-iD4pBIybyEtF1agtAf7ev5Q5m1SOiQsivsqAV4Wr6Lz3o2UsZkk-aa4UuR2tKdA01OPWH31wYtCjdvuh10_KhHt1kV7dcSL9pJA6USx9ipkTgGV7rktXiPN9lunoQAQ2Y5J1__CVJVmQ",
-      "e": "AQAB",
-      "kid": "test-rp-key-02",
+      "kty": "EC",
       "use": "sig",
-      "alg": "RS256"
+      "crv": "P-256",
+      "kid": "non-matching-kid",
+      "x": "ZyAP_T3GS6tzdEfIKgj7Z_TkKWQ9AQAU7LNTSV_JICQ",
+      "y": "gxQgPvGD8ASZT7DT41pgWP4ZHiZ_7HGcMoDM0NEOfO8",
+      "alg": "ES256"
     }
   ]
 }
