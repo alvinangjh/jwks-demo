@@ -11,10 +11,10 @@
     },
     {
       "kty": "EC",
-      "use": "sig",
+      "x": "apOSHYtecXJYonUE6OgJQm9l75TLSSXv6uPWPb3-dYE",
+      "y": "XC12uOnPfDJknzRwMXJpabhDN1bfyXm9xc29ZT9v78Q",
       "crv": "P-256",
-      "x": "ZyAP_T3GS6tzdEfIKgj7Z_TkKWQ9AQAU7LNTSV_JICQ",
-      "y": "gxQgPvGD8ASZT7DT41pgWP4ZHiZ_7HGcMoDM0NEOfO8"
+      "use": "sig"
     }
   ]
 }
